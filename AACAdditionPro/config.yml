@@ -485,7 +485,7 @@ ClientControl:
    Forge:
       # Do you want to enable the Forge-Control
       # This cannot be blocked; I recommend to kick if desired
-      enabled: false
+      enabled: true
       commands_on_detection:
          - "aacstaffnotify {player} in {world} uses Forge"
 
