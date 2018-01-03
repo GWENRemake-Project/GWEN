@@ -806,7 +806,7 @@ BowAimbot:
 #Stuff related to what name to choose. You can usually ignore this. The defaults are fine.
 All:
   #If server TPS goes below this Threshold, don't kick anyone.
-  MinTPS: 10
+  MinTPS: 12
   #Takes special measures to stop crashes. May cause slight memory leaks, but nothing serious.
   #Really, only enable this if I tell you to.
   StopCrashes: false
