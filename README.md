@@ -1,4 +1,6 @@
-# GWEN
+## GWEN
+# Moved to https://github.com/josephworks/Gwen-Remade
+### Outdated / DO NOT USE
 This repository is where we put our latest builds!!!
 
 tested with paper 1.11.2
